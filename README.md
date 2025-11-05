@@ -1,7 +1,7 @@
 <!-- 🌌 HEADER -->
 <div align="center">
   <!-- 💫 Animated Typing for first line only -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BE9FD&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Faten+Farid+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8BE9FD&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Faten+Fared+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 ---
