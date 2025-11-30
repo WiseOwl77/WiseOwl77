@@ -42,20 +42,6 @@
 
 ---
 
-### 🧩 Mini Projects Showcase  
-| 🎯 Project | 💻 Description | 🔗 Link |
-|-------------|----------------|----------|
-| 📰 **Quote Generator** | Displays random motivational quotes using JS | [View](https://github.com/YOUR_GITHUB_USERNAME/quote-generator) |
-| 🕹️ **Tic-Tac-Toe** | A fun React game with clean UI | [View](https://github.com/YOUR_GITHUB_USERNAME/tic-tac-toe) |
-| 📖 **Book List App** | Track what you’re reading (HTML/CSS/JS) | [View](https://github.com/YOUR_GITHUB_USERNAME/book-list) |
-| 🌙 **Dark Mode Toggle** | Simple dark/light switch using CSS & JS | [View](https://github.com/YOUR_GITHUB_USERNAME/dark-mode-toggle) |
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Coding focus">
-</p>
-
----
-
 ### ♟️ Chess × Code × Calm Mind 
 > “In chess, I plan three moves ahead.  
 > In code, I debug ten steps deep.  
