@@ -33,15 +33,6 @@
 
 ---
 
-### 🌈 GitHub Magic  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WiseOwl77&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiseOwl77&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-
----
-
 ### ♟️ Chess × Code × Calm Mind 
 > “In chess, I plan three moves ahead.  
 > In code, I debug ten steps deep.  
